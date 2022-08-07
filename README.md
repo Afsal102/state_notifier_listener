@@ -13,10 +13,6 @@ and the Flutter guide for
 
 A package that contains helper widgets which are missing from [StateNotifier](https://pub.dev/packages/state_notifier) package
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
 ## Getting started
 - this package is intended to be used along side [StateNotifier](https://pub.dev/packages/state_notifier) package
 
