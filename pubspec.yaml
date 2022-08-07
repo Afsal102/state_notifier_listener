@@ -1,7 +1,7 @@
 name: state_notifier_listener
-description: A new Flutter package project.
+description: A package that contains helper widgets for StateNotifier
 version: 0.0.1
-homepage:
+homepage: https://github.com/Afsal102/state_notifier_listener
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
